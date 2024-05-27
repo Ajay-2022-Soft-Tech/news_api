@@ -1,13 +1,13 @@
 ![Screenshot_20240527_202916](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/98374a0e-a6e4-4cc8-96ee-78b6aabf7daa)![Screenshot_20240527_202916](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/596d2e85-8c83-401d-b59f-7645af7ad6d6)News App
 Description
 This News App is a modern and dynamic news application built using Flutter, providing users with the latest news headlines from various sources. The app allows users to filter news based on different categories and news channels, offering a personalized news reading experience. The app also features a sleek and user-friendly interface, ensuring a smooth navigation experience.
-![Screenshot_20240527_202848](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/574995c7-70da-4da3-b6da-a489e74c967f)
+![Screenshot_20240527_202848](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/574995c7-70da-4da3-b6da-a489e74c967f width=100)
 
-![Screenshot_20240527_202916](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/ac6102e0-3f70-4633-a6b8-57fd991b1b1f)
+![Screenshot_20240527_202916](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/ac6102e0-3f70-4633-a6b8-57fd991b1b1f width=100)
 
-![Screenshot_20240527_203042](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/d0bfc5cb-877b-4535-b4f2-02cbc0012196)
+![Screenshot_20240527_203042](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/d0bfc5cb-877b-4535-b4f2-02cbc0012196 width=100)
 
-![Screenshot_20240527_203120](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/90740bf7-a01f-47cc-800b-7ecca7265685)
+![Screenshot_20240527_203120](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/90740bf7-a01f-47cc-800b-7ecca7265685 width=100)
 
 
 Technologies Used
