@@ -4,6 +4,11 @@ This News App is a modern and dynamic news application built using Flutter, prov
 
 ![1](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/12cac1c2-d6ce-4ecd-9d44-63ca3fbdf155)
 
+![2](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/5d912a81-ebf8-42a2-b79c-9e1525846f61)
+
+![3](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/696d3393-9cc1-49a4-89bd-556071a75246)
+
+![4](https://github.com/Ajay-2022-Soft-Tech/news_api/assets/113298640/76f49cc6-dd70-4146-b12c-505684ae49cd)
 
 Technologies Used
 Flutter: The primary framework used for developing the cross-platform mobile application.
