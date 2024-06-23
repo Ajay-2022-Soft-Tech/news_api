@@ -55,7 +55,4 @@ Screenshots
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any features or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 This README provides a comprehensive guide to the News App, covering the technologies used, features, methods, and steps to run the application. Feel free to customize the details based on your specific implementation and needs.
